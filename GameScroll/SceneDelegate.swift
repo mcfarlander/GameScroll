@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  GameScroll
 //
-//  Created by Dave on 3/8/20.
+//  Created by David Johnson on 3/8/20.
 //  Copyright © 2020 org.djohnson. All rights reserved.
 //
 
